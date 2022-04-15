@@ -1,0 +1,21 @@
+{
+    "Dashboard": true,
+    "Home": true,
+    "About": true,
+    "Contact": true,
+    "Services": true,
+    "Jobs": true,
+    "Education": true,
+    "Skill": true,
+    "Portfolio": true,
+    "Category": true,
+    "Article": true,
+    "Reward": true,
+    "User": true,
+    "Permission": true,
+    "Role": true,
+    "Setting": true,
+    "Social": true,
+    "Favorite": true,
+    "Job": true
+}
